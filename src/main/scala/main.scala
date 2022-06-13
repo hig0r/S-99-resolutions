@@ -6,3 +6,4 @@
   println(reverse(List(1, 1, 2, 3, 5, 8)))
   println(isPalindrome(List(1, 2, 3, 2, 1)))
   println(flatten(List(List(1, 1), 2, List(3, List(5, 8)))))
+  println(compress(List("a", "a", "a", "a", "b", "c", "c", "a", "a", "d", "e", "e", "e", "e")))
